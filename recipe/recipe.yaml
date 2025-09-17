@@ -32,7 +32,7 @@ requirements:
     - libclang
     - clangdev
   host:
-    - ffmpeg
+    - ffmpeg ==5.0.0
 
 tests:
   - script:
